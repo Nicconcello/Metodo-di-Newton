@@ -19,3 +19,28 @@ La formula ricorsiva utilizzata è:
 $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$$
 
 Geometricamente, $(x_{n+1})$ è l'intersezione dell'asse delle x con la tangente al grafico di $f$ nel punto $(x_n, f(x_n))$.
+
+
+
+ESEMPIO:
+
+Funzione: x**2 - 2
+
+
+X0: 0.1
+
+
+
+
+Grafico: 
+
+
+
+
+
+
+
+
+
+
+<img width="750" height="505" alt="image" src="https://github.com/user-attachments/assets/3fb842e9-1574-4116-9c2f-28d6c787c153" />
